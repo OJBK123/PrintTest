@@ -1,0 +1,8 @@
+E:\MDS测试项目\testPrint\testPrint\bin\Debug\testPrint.exe
+E:\MDS测试项目\testPrint\testPrint\bin\Debug\testPrint.pdb
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Debug\testPrint.Form1.resources
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Debug\testPrint.Properties.Resources.resources
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Debug\testPrint.csproj.GenerateResource.Cache
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Debug\testPrint.exe
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Debug\testPrint.pdb
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Debug\testPrint.csprojResolveAssemblyReference.cache

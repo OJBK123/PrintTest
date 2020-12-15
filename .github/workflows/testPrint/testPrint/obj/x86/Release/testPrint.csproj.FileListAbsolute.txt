@@ -1,0 +1,7 @@
+E:\MDS测试项目\testPrint\testPrint\bin\Release\testPrint.exe
+E:\MDS测试项目\testPrint\testPrint\bin\Release\testPrint.pdb
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Release\testPrint.Form1.resources
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Release\testPrint.Properties.Resources.resources
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Release\testPrint.csproj.GenerateResource.Cache
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Release\testPrint.exe
+E:\MDS测试项目\testPrint\testPrint\obj\x86\Release\testPrint.pdb
