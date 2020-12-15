@@ -21,6 +21,7 @@ namespace testPrint
         {
             try
             {
+            int a=0;
                 listdata.Clear();
                 listdata.Add("这是第一张卡片");
                 listdata.Add("这是第二张卡片");
